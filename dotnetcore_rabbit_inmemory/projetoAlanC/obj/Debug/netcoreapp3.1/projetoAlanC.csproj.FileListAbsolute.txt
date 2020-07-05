@@ -1,0 +1,17 @@
+/home/denis/Documents/projetoAlanC/obj/Debug/netcoreapp3.1/projetoAlanC.csprojAssemblyReference.cache
+/home/denis/Documents/projetoAlanC/obj/Debug/netcoreapp3.1/projetoAlanC.AssemblyInfoInputs.cache
+/home/denis/Documents/projetoAlanC/obj/Debug/netcoreapp3.1/projetoAlanC.AssemblyInfo.cs
+/home/denis/Documents/projetoAlanC/obj/Debug/netcoreapp3.1/projetoAlanC.csproj.CoreCompileInputs.cache
+/home/denis/Documents/projetoAlanC/bin/Debug/netcoreapp3.1/projetoAlanC
+/home/denis/Documents/projetoAlanC/bin/Debug/netcoreapp3.1/projetoAlanC.deps.json
+/home/denis/Documents/projetoAlanC/bin/Debug/netcoreapp3.1/projetoAlanC.runtimeconfig.json
+/home/denis/Documents/projetoAlanC/bin/Debug/netcoreapp3.1/projetoAlanC.runtimeconfig.dev.json
+/home/denis/Documents/projetoAlanC/bin/Debug/netcoreapp3.1/projetoAlanC.dll
+/home/denis/Documents/projetoAlanC/bin/Debug/netcoreapp3.1/projetoAlanC.pdb
+/home/denis/Documents/projetoAlanC/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/home/denis/Documents/projetoAlanC/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/home/denis/Documents/projetoAlanC/obj/Debug/netcoreapp3.1/projetoAlanC.csproj.CopyComplete
+/home/denis/Documents/projetoAlanC/obj/Debug/netcoreapp3.1/projetoAlanC.dll
+/home/denis/Documents/projetoAlanC/obj/Debug/netcoreapp3.1/projetoAlanC.pdb
+/home/denis/Documents/projetoAlanC/obj/Debug/netcoreapp3.1/projetoAlanC.genruntimeconfig.cache
+/home/denis/Documents/projetoAlanC/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
